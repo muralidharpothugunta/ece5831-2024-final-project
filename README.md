@@ -42,7 +42,7 @@ Please follow the below links for more details and for the resources used in thi
 
 1. [Presentation](https://www.youtube.com/)
 2. [Presentation slides](https://drive.google.com/drive/folders/1qkOowiAIAxT5FCGa9zPCnAdUYZLIaSvf?usp=drive_link)
-3. [Report](https://drive.google.com/drive/folders/1EY1eXZzhzGRZ3hmWlTA-qHdtICuhy4Rm?usp=drive_link)
+3. [Report](https://drive.google.com/drive/folders/1IhlIJqeE9asxwP2qP6xJ5nke4sCGkoDw?usp=sharing)
 4. [Dataset](https://drive.google.com/drive/folders/1jbgUeYK5d7jNre56BXjcqfuunMPHeVR2?usp=drive_link)
 5. [Demo](https://www.youtube.com/)
 
